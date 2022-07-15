@@ -1,1 +1,1 @@
-# Clousure_Scope
+# Scopes and closures explanation
